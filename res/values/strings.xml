@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UTTARA</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_signup">Sign up</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="uttara_logo">Uttara logo</string>
+
+</resources>
