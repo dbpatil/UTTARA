@@ -85,8 +85,8 @@ public final class MainActivity_
 
     @Override
     public void onViewChanged(HasViews hasViews) {
-        mViewPager = ((ViewPager) hasViews.findViewById(id.mViewPager));
         mCirIndicator = ((CirclePageIndicator) hasViews.findViewById(id.mCirIndicator));
+        mViewPager = ((ViewPager) hasViews.findViewById(id.mViewPager));
         afterViews();
     }
 
