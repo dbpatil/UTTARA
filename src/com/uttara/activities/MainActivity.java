@@ -14,11 +14,6 @@ import com.viewpagerindicator.CirclePageIndicator;
 @EActivity(R.layout.activity_main)
 public class MainActivity extends FragmentActivity {
 	
-	
-	/*
-	 *Testing git tutorials work flow
-	 */
-	
 	private static final int NUM_PAGES = 5;
 	
 	@ViewById

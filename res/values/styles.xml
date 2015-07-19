@@ -11,6 +11,7 @@
             backward-compatibility can go here.
         -->
     </style>
+    <style name="Theme.AppCompat.Light" parent="Base.Theme.AppCompat.Light" />
 
     <!-- Application theme. -->
     <style name="AppTheme" parent="AppBaseTheme">
